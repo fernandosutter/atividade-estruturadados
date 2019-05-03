@@ -148,7 +148,7 @@ R: Sejam f e g funções f,g: N → R+. Digamos que f(n) = O(g(n)) se existem in
 # 20 Problema 
 Crie um gráfico explicando a notação O-grande. Utilize f(n) = 2n + 4. Qual é um valor possível para n0? 
 R:
-
+![alt text](https://raw.githubusercontent.com/fernandosutter/atividade-estruturadados/master/20.png)
 
 # 21 Problema 
 O que é a notação o-pequeno ou Little-Oh? 
@@ -162,6 +162,7 @@ R: Sejam f e g funções f,g: N → R+. Digamos que f(n) = o(g(n)) se Em outras 
 Crie um gráfico explicando a notação o-pequeno. 
 R:
 
+![alt text](https://raw.githubusercontent.com/fernandosutter/atividade-estruturadados/master/23.png)
 
 # 24 Problema 
 Passe a notação O-grande e o-pequeno as funções abaixo: 
